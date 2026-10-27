@@ -1,0 +1,11 @@
+Image,True,Predicted,Similarity,Correct
+Adam_Herbert_0001.jpg,Adam_Herbert,Unknown,0.26188311931400676,False
+Ariel_Sharon_0004.jpg,Ariel_Sharon,Ariel_Sharon,1.0000000390409696,True
+George_W_Bush_0006.jpg,George_W_Bush,George_W_Bush,1.0000000126947466,True
+Jonathan_Fine_0001.jpg,Jonathan_Fine,Andre_Agassi,0.46291992120859504,False
+Luis_Sanchez_0001.jpg,Luis_Sanchez,Unknown,0.2916628855509771,False
+Ricardo_Lagos_0013.jpg,Ricardo_Lagos,Ricardo_Lagos,0.9999999719352672,True
+Serena_Williams_0008.jpg,Serena_Williams,Serena_Williams,0.9999998886108764,True
+Vladimir_Putin_0003.jpg,Vladimir_Putin,Vladimir_Putin,0.9999999217438926,True
+Wen_Ho_Lee_0001.jpg,Wen_Ho_Lee,Colin_Powell,0.38359814924501734,False
+Yuvraj_Singh_0001.jpg,Yuvraj_Singh,Unknown,0.33416151573419484,False

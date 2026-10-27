@@ -1,0 +1,14 @@
+True identity,adam_herbert,andre_agassi,ariel_sharon,colin_powell,george_w_bush,jonathan_fine,luis_sanchez,ricardo_lagos,serena_williams,unknown,vladimir_putin,wen_ho_lee,yuvraj_singh
+adam_herbert,0,0,0,0,0,0,0,0,0,1,0,0,0
+andre_agassi,0,0,0,0,0,0,0,0,0,0,0,0,0
+ariel_sharon,0,0,1,0,0,0,0,0,0,0,0,0,0
+colin_powell,0,0,0,0,0,0,0,0,0,0,0,0,0
+george_w_bush,0,0,0,0,1,0,0,0,0,0,0,0,0
+jonathan_fine,0,1,0,0,0,0,0,0,0,0,0,0,0
+luis_sanchez,0,0,0,0,0,0,0,0,0,1,0,0,0
+ricardo_lagos,0,0,0,0,0,0,0,1,0,0,0,0,0
+serena_williams,0,0,0,0,0,0,0,0,1,0,0,0,0
+unknown,0,0,0,0,0,0,0,0,0,0,0,0,0
+vladimir_putin,0,0,0,0,0,0,0,0,0,0,1,0,0
+wen_ho_lee,0,0,0,1,0,0,0,0,0,0,0,0,0
+yuvraj_singh,0,0,0,0,0,0,0,0,0,1,0,0,0

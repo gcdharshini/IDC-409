@@ -1,0 +1,11 @@
+Identity,Images,Correct,Accuracy,Precision,Recall,F1_Score
+adam_herbert,1,0,0.0,0.0,0.0,0.0
+ariel_sharon,1,1,1.0,1.0,1.0,1.0
+george_w_bush,1,1,1.0,1.0,1.0,1.0
+jonathan_fine,1,0,0.0,0.0,0.0,0.0
+luis_sanchez,1,0,0.0,0.0,0.0,0.0
+ricardo_lagos,1,1,1.0,1.0,1.0,1.0
+serena_williams,1,1,1.0,1.0,1.0,1.0
+vladimir_putin,1,1,1.0,1.0,1.0,1.0
+wen_ho_lee,1,0,0.0,0.0,0.0,0.0
+yuvraj_singh,1,0,0.0,0.0,0.0,0.0

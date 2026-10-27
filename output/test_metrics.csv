@@ -1,0 +1,23 @@
+Metric,Value
+Total test images,10.0
+Correct predictions,5.0
+Incorrect predictions,5.0
+Accuracy (%),50.0
+Balanced accuracy (%),50.0
+Macro precision (%),38.46153846153847
+Macro recall (%),38.46153846153847
+Macro F1-score (%),38.46153846153847
+Weighted precision (%),50.0
+Weighted recall (%),50.0
+Weighted F1-score (%),50.0
+Micro precision (%),50.0
+Micro recall (%),50.0
+Micro F1-score (%),50.0
+Known images,10.0
+False rejections,3.0
+False rejection rate (%),30.0
+Wrong known identities,2.0
+Wrong identity rate among known (%),20.0
+Unknown images,0.0
+Unknown accepted as known,0.0
+Unknown false acceptance rate (%),
