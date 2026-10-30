@@ -47,4 +47,7 @@ Only the highest-similarity match for each recognized person is retained in the 
 
 Used publicly available image dataset from Kaggle. Follow the dataset's license, terms of use, and any applicable restrictions. Do not upload additional private face images, facial embeddings, or personal attendance records to a public repository.
 
+**Final Project Notebook**
+
+Face Attendancefinal.ipynb is the final version of our Face Attendance project. The other notebooks in this repository are retained for development, testing, and demonstration purposes.
 
