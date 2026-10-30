@@ -1,6 +1,6 @@
 **Final Project Notebook**
 
-Face Attendancefinal.ipynb is the final version of our Face Attendance project. The other notebooks in this repository are done as sample test for our final version of our code, later collaborated together.
+Face Attendancefinal.ipynb is the final version of our Face Attendance project. The other notebooks in this repository were created as sample implementations and for our understanding.We later collaborated to integrate our work into the final version
 
 **Face Recognition-Based Attendance System**
 
